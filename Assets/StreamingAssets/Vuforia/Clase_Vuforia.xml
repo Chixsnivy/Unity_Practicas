@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="cartaenergia" size="1.000000 1.000000" />
+    <ImageTarget name="cartaporygonz" size="1.000000 1.000000" />
+    <ImageTarget name="cartaporygon2" size="1.000000 1.000000" />
     <ImageTarget name="cartaporygon" size="1.000000 1.000000" />
   </Tracking>
 </QCARConfig>
